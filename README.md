@@ -1,10 +1,11 @@
 # 👋 Hey there, I'm Alexandre!
 
 ## 🚀 About Me
-Computer Science student at 42 Paris, I'm deeply passionate about programming.
+Computer Science student at 42 Paris, passionate about programming and audio.
 
-- 🌱 I’m currently focusing on **advancing my C++ skills** and **exploring digital signal processing**.
+- 🌱 I’m currently focusing on **advancing my C++ skills**, **exploring digital signal processing** and discover the **JUCE** framework.
 - 👯 I’m looking to collaborate on **C/C++ projects**
+- ⚙️ I'm working on a sequencer module for **VCV Rack**
 
 ## 🛠️ Skills
 Languages and Tools:
@@ -16,3 +17,6 @@ Languages and Tools:
 ## 🔍 Current Interests
 - **C++**
 - **Digital Signal Processing**
+- **Onboard Programming**
+- **Modular Synthesizers**
+- **Fast Fourier Transform applications**
