@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Alexandre!
 
 ## 🚀 About Me
-Computer Science student at 42 Paris, passionate about programming and audio.
+Computer Science student at 42 Paris and sound engineer passionate about programming and audio.
 
 - 🌱 I’m currently focusing on **advancing my C++ skills**, **exploring digital signal processing** and discover the **JUCE** framework.
 - 👯 I’m looking to collaborate on **C/C++ projects**
