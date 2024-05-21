@@ -5,7 +5,7 @@ Computer Science student at 42 Paris and sound engineer passionate about program
 
 - 🌱 I’m currently focusing on **advancing my C++ skills**, **exploring digital signal processing** and discover the **JUCE** framework
 - 👯 I’m looking to collaborate on **C/C++ projects**
-- ⚙️ I'm working on a audio FX module for **VCV Rack** as well as a website using **Django**
+- ⚙️ I'm working on a **Max4Live** sequencer
 
 ## 🛠️ Skills
 Languages and Tools:
@@ -20,3 +20,4 @@ Languages and Tools:
 - **Digital Signal Processing**
 - **Onboard Programming**
 - **Modular Synthesizers**
+- **VCV RACK**
