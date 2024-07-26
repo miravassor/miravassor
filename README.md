@@ -3,10 +3,6 @@
 ## 🚀 About Me
 Computer Science student at 42 Paris and sound engineer passionate about programming and audio.
 
-- 🌱 I’m currently focusing on **advancing my C++ skills** and preparing my **Cybersecurity** Master
-- 👯 I’m looking to collaborate on **C/C++ projects**
-- ⚙️ I'm working on a **Max4Live** sequencer
-
 ## 🛠️ Skills
 Languages and Tools:
 
