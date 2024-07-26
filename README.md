@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Computer Science student at 42 Paris and sound engineer passionate about programming and audio.
 
-Currently doing internship in IA generated images 
+Currently doing internship in IA generated image/videos 
 
 ## 🛠️ Skills
 Languages and Tools:
