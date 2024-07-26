@@ -14,7 +14,7 @@ Languages and Tools:
 
 ## 🔍 Current Interests
 - **C++**, **Python**, **Rust**
-- **Django**
+- **Stable Diffusion**
 - **Digital Signal Processing**
 - **Onboard Programming**
 - **Modular Synthesizers**
