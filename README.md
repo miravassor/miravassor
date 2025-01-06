@@ -11,7 +11,7 @@ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ## 🔍 Current Interests
-- **C++**, **Python**, **Rust**
+- **C++**, **Python**
 - **Stable Diffusion**
 - **Digital Signal Processing**
 - **Onboard Programming**
