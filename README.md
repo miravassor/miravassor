@@ -1,9 +1,7 @@
 # 👋 Hey there, I'm Alexandre!
 
 ## 🚀 About Me
-Computer Science student at 42 Paris and sound engineer passionate about programming and audio.
-
-Currently doing internship in IA generated image/videos 
+Freelance developer/AI technician at 8849.io
 
 ## 🛠️ Skills
 Languages and Tools:
