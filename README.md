@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 Freelance developer/AI technician at 8849.io
+Study computer science at 42 Paris
 
 ## 🛠️ Skills
 Languages and Tools:
