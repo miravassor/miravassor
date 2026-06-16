@@ -1,22 +1,12 @@
-# 👋 Hey there, I'm Alexandre!
+Hi, I'm Alexandre. 
 
-## 🚀 About Me
-- Freelance developer/AI technician at 8849.io
-- Study computer science at 42 Paris
+## Profile
+* **Developer & AI Technician** at [8849.io](https://8849.io/) / [Everest Studio](https://www.everest.studio/)
+* **Pipeline Developer** (Ayon-centric workflows)
+* **Education:** 42 Paris Alumni
 
-## 🛠️ Skills
-Languages and Tools:
+---
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-
-## 🔍 Current Interests
-- **C++**, **Python**
-- **Stable Diffusion**
-- **Digital Signal Processing**
-- **Onboard Programming**
-- **Modular Synthesizers**
-- **VCV RACK**
+## Technical Stack & Interests
+* **Core Languages:** C, C++, Python, JavaScript
+* **Audio Engineering:** MaxMSP, Max4Live, Eurorack Synthesizers
